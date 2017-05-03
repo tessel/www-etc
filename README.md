@@ -6,6 +6,7 @@ Remotes:
 
 ```
 git remote add dokku-docs dokku@dokku.tessel.io:docs
+git remote add dokku-start dokku@dokku.tessel.io:start
 ```
 
 ## Licence
